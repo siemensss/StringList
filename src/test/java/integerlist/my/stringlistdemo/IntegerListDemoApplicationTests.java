@@ -1,10 +1,10 @@
-package stringlist.my.stringlistdemo;
+package integerlist.my.stringlistdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StringListDemoApplicationTests {
+class IntegerListDemoApplicationTests {
 
     @Test
     void contextLoads() {
